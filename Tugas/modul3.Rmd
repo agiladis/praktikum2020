@@ -125,4 +125,3 @@ Untuk mengakses entri tertentu dalam matriks, dapat digunakan tanda kurung siku 
 ```{r}
 mat[2, 3]
 ```
-
